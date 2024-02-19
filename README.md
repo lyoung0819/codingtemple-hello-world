@@ -12,6 +12,9 @@ This is my very repository with the Kekambas 142 cohort.
 `git push <remote_name> <branch_name>` to send commits to Github
     -`<remote_name>` will usually be `origin`
     -`<branch_name>` will usually be `main`
-    You can add `-u` flag to command to set up tracking 
-
-
+    - You can add `-u` flag to command to set up tracking 
+- Create a new branch `git checkout -b <branch-name>`
+    - Use `git checkout <branch_name>` to switch branches
+    - Use `git branch` to get a list of existing branches
+    
+     
